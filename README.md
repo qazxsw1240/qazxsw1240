@@ -11,14 +11,14 @@ I hope what I'm doing is the evidence that I enjoyed. And I hope my codes here w
 - **Javascript**, the most delicious language when I make spaghetti.
 - **Typescript**, the most ordinary language in my two hands.
 - **Java**, the most welcome langauge in "**30 BILLION DEVICES**".
-- **C#**, the language at the mercy of Microsoft in my head.
+- **C#**, the language at the mercy of Microsoft.
 - **C/C++**, the most welcome language among college professors.
 - **Rust**, the most expected language in my brain.
 
 ### What languages this 🐵 can speak in
 - 🇰🇷 (Mother Tongue)
 - 🇯🇵 (My tongue has been trained by many Animes...)
-- 🇨🇳🇹🇼 (Nobody has talked to me about the five thousand year's history...)
+- 🇨🇳🇹🇼 (Nobody has talked to me about the five-thousand-year history...)
 - 🇬🇧🇺🇸 (One of the official international languages which I should use)
 - 🇷🇺(Not so good, Ребёнок ест яркую звезду)
 - 🇩🇪(Not so good, Eines Kind isst einer funkelnden Stern)
