@@ -26,12 +26,4 @@ I hope what I'm doing is the evidence that I enjoyed. And I hope my codes here w
 ### What this 🐵 have interests in
 - **Algorithm**, I'm not goot at it, but I like it since it seems like a puzzle.
 - **Server/Client**, I hired a maid to serve their master
-- **Bit Operations**, do you know what happens in memory bits?
-
-### No one would read this
-- **S**HOOU**J**OOOU**Z**EEEEN**S**EEEEN
-- **Umamusume**, Pretty Derby!
-- **H**eKiReKi **I**ssEn
-- Where is **Nina**?!
-- I'm doing a hero as a **hobby**.
-- **Keroro** invades the Earth!
+- **Bit Operations**, can you imagin what happens in memory bits?
