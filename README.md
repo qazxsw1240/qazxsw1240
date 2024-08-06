@@ -1,29 +1,24 @@
-### A Code Monkey, Speaking Korean 🐵🇰🇷
+### Languages that I Use
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![kt](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![rs](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-A wise 🐵 said: **We record everything to forget everything.**
+- **Javascript/Typescript**
+- **Java**
+- **C#**
+- **C/C++**
+- **Rust**
 
-As the idiom above, we work patiently not to work patiently.
-There is no one wanting to be in difficult situations, but there are only ones wanting to enjoy difficult situations.
+### Langauge Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qazxsw1240)](https://github.com/anuraghazra/github-readme-stats)
 
-I hope what I'm doing is the evidence that I enjoyed. And I hope my codes here will be the evidence.
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazxsw1240)](https://github.com/anuraghazra/github-readme-stats)
 
-### What language this 🐵 can write codes in
-- **Javascript**, the most delicious language when I make spaghetti.
-- **Typescript**, the most ordinary language in my two hands.
-- **Java**, the most welcome langauge in "**30 BILLION DEVICES**".
-- **C#**, the language at the mercy of Microsoft.
-- **C/C++**, the most welcome language among college professors.
-- **Rust**, the most expected language in my brain.
-
-### What languages this 🐵 can speak in
-- 🇰🇷 (Mother Tongue)
-- 🇯🇵 (My tongue has been trained by many Animes...)
-- 🇨🇳🇹🇼 (Nobody has talked to me about the five-thousand-year history...)
-- 🇬🇧🇺🇸 (One of the official international languages which I should use)
-- 🇷🇺(Not so good, Ребёнок ест яркую звезду)
-- 🇩🇪(Not so good, Eines Kind isst einer funkelnden Stern)
-
-### What this 🐵 have interests in
-- **Algorithm**, I'm not goot at it, but I like it since it seems like a puzzle.
-- **Server/Client**, I hired a maid to serve their master
-- **Bit Operations**, can you imagin what happens in memory bits?
+### Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qazxsw1240)](벨로그링크)
