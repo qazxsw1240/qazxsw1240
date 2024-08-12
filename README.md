@@ -21,4 +21,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qazxsw1240)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qazxsw1240)](벨로그링크)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qazxsw1240)](https://velog.io/@qazxsw1240/)
