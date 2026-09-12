@@ -15,10 +15,10 @@
 - **Rust**
 
 ### Langauge Stats
-[![Top Langs](https://github-readme-extended.vercel.app/api/top-langs/?username=qazxsw1240)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=qazxsw1240&layout=compact&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=qazxsw1240)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=qazxsw1240&layout=compact&langs_count=8&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
 
 ### Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qazxsw1240)](https://velog.io/@qazxsw1240/)
